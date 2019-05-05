@@ -1,0 +1,5 @@
+com\example\demo\DemoApplication.class
+com\example\demo\controller\BlogController.class
+com\example\demo\repository\BlogRepository.class
+com\example\demo\entity\Blog.class
+com\example\demo\controller\Login.class
